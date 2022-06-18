@@ -11,7 +11,7 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lid-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lid-Delphi" height="40" width="40" src="https://img.icons8.com/color/344/delphi-ide.png">
-  <!--<img align="center" alt="Lid-Fb" height="40" width="40" src="icon/fb">-->
+  <img align="center" alt="Lid-Fb" height="40" width="40" src="https://cdn.discordapp.com/attachments/744687727597060277/987565962175864882/fb.png">
   <img align="center" alt="Lid-IBEx" height="40" width="40" src="https://www.ibexpert.net/ibe/uploads/Main/NewIBELogo_full.png">
   
   <!-- <img align="center" alt="Lid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
