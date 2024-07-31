@@ -1,7 +1,7 @@
 ### Eae, Sou Lidson Oliveira
 
 - 🔭 Trabalho com programação em Delphi 
-- 🌱 Estou aprendendo C++ na UFV
+- 🌱 Estou aprendendo Typescript
 
 <div align="center">
   <a href="https://github.com/LidsonKillua">
